@@ -29,8 +29,7 @@ highlight ColorColumn ctermbg=0 guibg=lightgrey
 "
 "
 " =------------========================================================== "
-" |  NAV TOOL  |  Janky doom-emacs style navigation                     | "
-" |            |  navigation bar                                        | "
+" |  NAV TOOL  |  doom-emacs style navigation                           | "
 " =------------========================================================== "
 "
 " The DOOM key:
